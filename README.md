@@ -11,3 +11,5 @@ The data consists of different kinds of mortality rates from around the globe. M
 “EDA” folder contains the notebook for exploratory descriptive analysis
 
 “Machine learning” folder contains the notebook that runs the models
+
+HTML is also included in "EDA" and "Machine learning" folder for viewing
